@@ -1,0 +1,117 @@
+{
+  "format": 1,
+  "title": {
+    "en": "DrSmerch plugins",
+    "ru": "Плагины DrSmerch"
+  },
+  "description": {
+    "en": "Personal DeepSeek Harness plugins, installed straight from this repository.",
+    "ru": "Личные плагины DeepSeek Harness, устанавливаемые прямо из этого репозитория."
+  },
+  "plugins": [
+    {
+      "name": "dsh-cloud-budget",
+      "title": {
+        "en": "dsh-cloud-budget"
+      },
+      "description": {
+        "en": "Keep a chat route's request body inside a small budget: a turn-aware image window plus pressure compaction at a threshold suited to the body size"
+      },
+      "homepage": "https://github.com/DrSmerch-git/dsh-plugins/tree/main/plugins/dsh-cloud-budget",
+      "repository": {
+        "url": "https://github.com/DrSmerch-git/dsh-plugins",
+        "directory": "plugins/dsh-cloud-budget"
+      },
+      "versions": [
+        {
+          "version": "0.3.2",
+          "publishTimestamp": 1793774821,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/DrSmerch-git/dsh-plugins",
+            "commit": "6d5c95e71e8a3b3105925cdba8078cd1c4191b36",
+            "path": "plugins/dsh-cloud-budget"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dsh-locale-ru",
+      "title": {
+        "en": "dsh-locale-ru"
+      },
+      "description": {
+        "en": "Russian language pack for the DeepSeek Harness Web UI and Desktop shell"
+      },
+      "homepage": "https://github.com/DrSmerch-git/dsh-plugins/tree/main/plugins/dsh-locale-ru",
+      "repository": {
+        "url": "https://github.com/DrSmerch-git/dsh-plugins",
+        "directory": "plugins/dsh-locale-ru"
+      },
+      "versions": [
+        {
+          "version": "0.2.0",
+          "publishTimestamp": 1793774821,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/DrSmerch-git/dsh-plugins",
+            "commit": "6d5c95e71e8a3b3105925cdba8078cd1c4191b36",
+            "path": "plugins/dsh-locale-ru"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dsh-tool-local-llm",
+      "title": {
+        "en": "dsh-tool-local-llm"
+      },
+      "description": {
+        "en": "Call the models installed in Ollama on this machine (text and vision) as one tool, with no per-machine configuration"
+      },
+      "homepage": "https://github.com/DrSmerch-git/dsh-plugins/tree/main/plugins/dsh-tool-local-llm",
+      "repository": {
+        "url": "https://github.com/DrSmerch-git/dsh-plugins",
+        "directory": "plugins/dsh-tool-local-llm"
+      },
+      "versions": [
+        {
+          "version": "0.1.1",
+          "publishTimestamp": 1793774821,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/DrSmerch-git/dsh-plugins",
+            "commit": "6d5c95e71e8a3b3105925cdba8078cd1c4191b36",
+            "path": "plugins/dsh-tool-local-llm"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dsh-web-search-searxng",
+      "title": {
+        "en": "dsh-web-search-searxng"
+      },
+      "description": {
+        "en": "SearXNG-backed web search provider for the DeepSeek Harness web seam (ctx.web)"
+      },
+      "homepage": "https://github.com/DrSmerch-git/dsh-plugins/tree/main/plugins/dsh-web-search-searxng",
+      "repository": {
+        "url": "https://github.com/DrSmerch-git/dsh-plugins",
+        "directory": "plugins/dsh-web-search-searxng"
+      },
+      "versions": [
+        {
+          "version": "0.1.0",
+          "publishTimestamp": 1793774821,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/DrSmerch-git/dsh-plugins",
+            "commit": "6d5c95e71e8a3b3105925cdba8078cd1c4191b36",
+            "path": "plugins/dsh-web-search-searxng"
+          }
+        }
+      ]
+    }
+  ]
+}
