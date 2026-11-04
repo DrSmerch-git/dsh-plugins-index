@@ -29,7 +29,7 @@
           "source": {
             "type": "git",
             "url": "https://github.com/DrSmerch-git/dsh-plugins",
-            "commit": "6d5c95e71e8a3b3105925cdba8078cd1c4191b36",
+            "commit": "1c44af4ed2ca7b9cb2a492f14523298d678b7ae7",
             "path": "plugins/dsh-cloud-budget"
           }
         }
@@ -55,7 +55,7 @@
           "source": {
             "type": "git",
             "url": "https://github.com/DrSmerch-git/dsh-plugins",
-            "commit": "6d5c95e71e8a3b3105925cdba8078cd1c4191b36",
+            "commit": "1c44af4ed2ca7b9cb2a492f14523298d678b7ae7",
             "path": "plugins/dsh-locale-ru"
           }
         }
@@ -81,7 +81,7 @@
           "source": {
             "type": "git",
             "url": "https://github.com/DrSmerch-git/dsh-plugins",
-            "commit": "6d5c95e71e8a3b3105925cdba8078cd1c4191b36",
+            "commit": "1c44af4ed2ca7b9cb2a492f14523298d678b7ae7",
             "path": "plugins/dsh-tool-local-llm"
           }
         }
@@ -107,7 +107,7 @@
           "source": {
             "type": "git",
             "url": "https://github.com/DrSmerch-git/dsh-plugins",
-            "commit": "6d5c95e71e8a3b3105925cdba8078cd1c4191b36",
+            "commit": "1c44af4ed2ca7b9cb2a492f14523298d678b7ae7",
             "path": "plugins/dsh-web-search-searxng"
           }
         }
