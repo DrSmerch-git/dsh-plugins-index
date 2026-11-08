@@ -62,6 +62,32 @@
       ]
     },
     {
+      "name": "dsh-no-telemetry",
+      "title": {
+        "en": "dsh-no-telemetry"
+      },
+      "description": {
+        "en": "Turns every outbound telemetry path in a DeepSeek Harness profile off — product analytics, the Desktop product-telemetry sender and the session-log exporter — keeps the feedback buttons local, and audits the result at load time"
+      },
+      "homepage": "https://github.com/DrSmerch-git/dsh-plugins/tree/main/plugins/dsh-no-telemetry",
+      "repository": {
+        "url": "https://github.com/DrSmerch-git/dsh-plugins",
+        "directory": "plugins/dsh-no-telemetry"
+      },
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishTimestamp": 1794145929,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/DrSmerch-git/dsh-plugins",
+            "commit": "73ac794e6a192b904387c57ce35d55d6a6948285",
+            "path": "plugins/dsh-no-telemetry"
+          }
+        }
+      ]
+    },
+    {
       "name": "dsh-tool-local-llm",
       "title": {
         "en": "dsh-tool-local-llm"
