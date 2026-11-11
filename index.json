@@ -50,12 +50,12 @@
       },
       "versions": [
         {
-          "version": "0.3.0",
-          "publishTimestamp": 1794364407,
+          "version": "0.3.1",
+          "publishTimestamp": 1794365505,
           "source": {
             "type": "git",
             "url": "https://github.com/DrSmerch-git/dsh-plugins",
-            "commit": "6a9b80e1e07a57633b87f446a24d40bf3c502d33",
+            "commit": "835b6e609117a38be3237db1d214362eea2d98e4",
             "path": "plugins/dsh-locale-ru"
           }
         }
