@@ -41,7 +41,7 @@
         "en": "dsh-locale-ru"
       },
       "description": {
-        "en": "Russian language pack for the DeepSeek Harness Web UI and Desktop shell"
+        "en": "Russian corrections for the DeepSeek Harness Web UI: fixes the wording DSH ships, plus the Desktop shell menu"
       },
       "homepage": "https://github.com/DrSmerch-git/dsh-plugins/tree/main/plugins/dsh-locale-ru",
       "repository": {
@@ -50,12 +50,12 @@
       },
       "versions": [
         {
-          "version": "0.2.1",
-          "publishTimestamp": 1794135026,
+          "version": "0.3.0",
+          "publishTimestamp": 1794364407,
           "source": {
             "type": "git",
             "url": "https://github.com/DrSmerch-git/dsh-plugins",
-            "commit": "91ebf379bd64d537c5951f8ac574a33a5f9398bc",
+            "commit": "6a9b80e1e07a57633b87f446a24d40bf3c502d33",
             "path": "plugins/dsh-locale-ru"
           }
         }
