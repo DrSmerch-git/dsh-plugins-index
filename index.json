@@ -102,12 +102,12 @@
       },
       "versions": [
         {
-          "version": "0.1.0",
-          "publishTimestamp": 1794466745,
+          "version": "0.1.1",
+          "publishTimestamp": 1794469477,
           "source": {
             "type": "git",
             "url": "https://github.com/DrSmerch-git/dsh-plugins",
-            "commit": "74c05d697855f876652db062066fb8c0a9c5fc3b",
+            "commit": "217fdbeff17427754e47122af27b41f84fe5913b",
             "path": "plugins/dsh-notes"
           }
         }
