@@ -129,11 +129,11 @@
       "versions": [
         {
           "version": "0.1.1",
-          "publishTimestamp": 1794577812,
+          "publishTimestamp": 1794884186,
           "source": {
             "type": "git",
             "url": "https://github.com/DrSmerch-git/dsh-plugins",
-            "commit": "02356a042f3ca725d64709df925e24443beca6b4",
+            "commit": "bcac2219df2bfc86c090c943322239ec9ec0cf4a",
             "path": "plugins/dsh-tool-local-llm"
           }
         }
